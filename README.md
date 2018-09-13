@@ -1,0 +1,1 @@
+This is a backend test application written with Flask. All relevant code can be found in ./flaskr directory
